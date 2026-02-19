@@ -121,7 +121,7 @@ The system consists of:
 ---
 ## Implementation in spartan-6 FPGA
 ![Implementation with data#1](resources/FPGA_implementation.jpg)
-![Implementation with data#2](resources/FPGA_impl_data#2.jpg)
+![Implementation with data#2](resources/FPGA_impl_data_2.jpg)
 
 ## 🔮 Future Improvements
 
